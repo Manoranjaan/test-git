@@ -1,0 +1,18 @@
+
+body{
+    background-color: cyan;
+}
+h1 {
+    text-align: center;
+    color: rgb(22, 6, 6);
+}
+div {  
+    border: 2px solid red;  
+    }  
+    img{  
+    height: 300px;  
+    width: 300px;  
+    }  
+    #center {  
+    text-align: center;  
+    }  
